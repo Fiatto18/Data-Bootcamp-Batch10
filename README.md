@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at piyachart.fiat@gmail.com
 
 ## Image
-![Pokemon](https://pokemongolive.com/th/post/pokemongo-7th-anniversary-art/?hl=ja]
+![Pokemon](https://lh3.googleusercontent.com/yt5FGbyvBSoAYuOAh7zW-R91NtRXs4HTR1uggdhNuWb3WdkfAEUGKbCGERsCGdgww_l2JdVbYcOtVnfZawyW2vV3IjxDx8s29M7hHvxJthCRFA=w1440-e365)
